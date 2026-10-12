@@ -21,19 +21,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,kotlin,php,mysql,git,github,vscode,androidstudio,wordpress" />
 </p>
 
----
-
-
-## 📬 Contáctame
-
-<p align="center">
-  <a href="https://github.com/ssedux">
-    <img src="https://img.shields.io/badge/GitHub-ssedux-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ssedux&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
